@@ -108,7 +108,7 @@ def menu():
     os.system('clear')
     print logo
     print ''
-    print '\033[0;93mAUTHOR   : Masud
+    print '\033[0;93mAUTHOR   : Mr. Masud'
     print '\033[0;94mFACEBOOK : Masud
     print ' '\033[0;94mINSTRAGRAM: masudchowdhury30
     print '' '\033[0;94mWHATSAPP:9607421489
